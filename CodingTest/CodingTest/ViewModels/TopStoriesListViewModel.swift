@@ -8,7 +8,7 @@
 
 
 import Foundation
-
+import UIKit
 class TopStoriesListViewModel {
     
     let apiService: APIServiceProtocol

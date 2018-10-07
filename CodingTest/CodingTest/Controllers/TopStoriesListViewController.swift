@@ -88,7 +88,7 @@ class TopStoriesListViewController: UIViewController {
 extension TopStoriesListViewController: UITableViewDelegate, UITableViewDataSource {
     
     func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
-        guard let cell = tableView.dequeueReusableCell(withIdentifier: "topStoryCellIdentifier", for: indexPath) as? TopStoriesListTableViewCell else {
+        guard let cell = tableView.dequeueReusableCell(withIdentifier: Cells.topStoryListCellId , for: indexPath) as? TopStoriesListTableViewCell else {
             fatalError("Cell not exists in storyboard")
         }
         
@@ -126,7 +126,7 @@ extension TopStoriesListViewController {
     override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
         if let vc = segue.destination as? TopStoryDetailViewController,
             let topStory = viewModel.selectedTopStory {
-            vc.topStory = topStory
+            vc.topStoryViewModel = topStory
             
             
         }

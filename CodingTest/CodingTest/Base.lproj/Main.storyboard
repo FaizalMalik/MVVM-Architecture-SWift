@@ -184,6 +184,9 @@
                                                     <color key="titleColor" red="0.0" green="0.47843137250000001" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                     <color key="titleShadowColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                                 </state>
+                                                <connections>
+                                                    <action selector="seeMoreAction:" destination="Jqg-oW-znu" eventType="touchUpInside" id="EkI-Nd-EeH"/>
+                                                </connections>
                                             </button>
                                         </subviews>
                                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
@@ -230,16 +233,58 @@
                         <viewLayoutGuide key="safeArea" id="aA2-TR-Jw7"/>
                     </view>
                     <connections>
+                        <outlet property="btnSeeMore" destination="7oE-f7-vkb" id="oSe-Du-Reu"/>
                         <outlet property="imageTopstory" destination="b3p-Mb-QU2" id="xOk-2U-sjo"/>
                         <outlet property="lblAuthor" destination="pDX-HU-DmH" id="EWo-6Y-43B"/>
                         <outlet property="lblDate" destination="sZ8-FU-Cmj" id="IJ1-nA-96F"/>
                         <outlet property="lblTittle" destination="a98-Ku-nYR" id="elo-O9-8gy"/>
                         <outlet property="ldlDescription" destination="eQc-0S-uQh" id="7yn-eP-6kk"/>
+                        <segue destination="S79-qt-PkA" kind="show" identifier="seeMoreSegue" id="J5l-Xj-Ewk"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="0vj-5x-5X4" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="649" y="830"/>
+        </scene>
+        <!--Web View Controller-->
+        <scene sceneID="3uZ-rI-TwI">
+            <objects>
+                <viewController storyboardIdentifier="WebViewController" id="S79-qt-PkA" customClass="WebViewController" customModule="CodingTest" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="JNs-to-6nd">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <wkWebView contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="9iv-eQ-Qen">
+                                <rect key="frame" x="0.0" y="64" width="375" height="603"/>
+                                <color key="backgroundColor" red="0.36078431370000003" green="0.38823529410000002" blue="0.4039215686" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <wkWebViewConfiguration key="configuration">
+                                    <audiovisualMediaTypes key="mediaTypesRequiringUserActionForPlayback" none="YES"/>
+                                    <wkPreferences key="preferences"/>
+                                </wkWebViewConfiguration>
+                            </wkWebView>
+                            <activityIndicatorView opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" hidesWhenStopped="YES" animating="YES" style="gray" translatesAutoresizingMaskIntoConstraints="NO" id="Efj-gb-QJp">
+                                <rect key="frame" x="177" y="323" width="20" height="20"/>
+                            </activityIndicatorView>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="A2z-Be-1mJ" firstAttribute="trailing" secondItem="9iv-eQ-Qen" secondAttribute="trailing" id="3zN-Wa-Rim"/>
+                            <constraint firstItem="Efj-gb-QJp" firstAttribute="centerY" secondItem="JNs-to-6nd" secondAttribute="centerY" id="HpK-W1-DoB"/>
+                            <constraint firstItem="9iv-eQ-Qen" firstAttribute="leading" secondItem="A2z-Be-1mJ" secondAttribute="leading" id="ZGR-Fd-Sqg"/>
+                            <constraint firstItem="9iv-eQ-Qen" firstAttribute="top" secondItem="A2z-Be-1mJ" secondAttribute="top" id="dP5-Up-mSe"/>
+                            <constraint firstItem="Efj-gb-QJp" firstAttribute="centerX" secondItem="JNs-to-6nd" secondAttribute="centerX" id="rgz-o4-llJ"/>
+                            <constraint firstItem="A2z-Be-1mJ" firstAttribute="bottom" secondItem="9iv-eQ-Qen" secondAttribute="bottom" id="wMn-sZ-caq"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="A2z-Be-1mJ"/>
+                    </view>
+                    <connections>
+                        <outlet property="activityIndicator" destination="Efj-gb-QJp" id="O54-fD-X5k"/>
+                        <outlet property="webview" destination="9iv-eQ-Qen" id="uS4-G3-WfM"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="s9a-vf-R7W" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1540" y="907"/>
         </scene>
     </scenes>
     <resources>

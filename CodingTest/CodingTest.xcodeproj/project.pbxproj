@@ -22,6 +22,8 @@
 		F5870B142169F6430019607B /* APIService.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5870B132169F6430019607B /* APIService.swift */; };
 		F5870B162169F65B0019607B /* AsyncImageLoader.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5870B152169F65B0019607B /* AsyncImageLoader.swift */; };
 		F5870B182169F8760019607B /* TopStoryDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5870B172169F8760019607B /* TopStoryDetailViewController.swift */; };
+		F5CC849B216A014D0084EBA2 /* WebViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5CC849A216A014D0084EBA2 /* WebViewController.swift */; };
+		F5CC849E216A025E0084EBA2 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5CC849D216A025E0084EBA2 /* Constants.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -63,6 +65,8 @@
 		F5870B132169F6430019607B /* APIService.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = APIService.swift; sourceTree = "<group>"; };
 		F5870B152169F65B0019607B /* AsyncImageLoader.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AsyncImageLoader.swift; sourceTree = "<group>"; };
 		F5870B172169F8760019607B /* TopStoryDetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TopStoryDetailViewController.swift; sourceTree = "<group>"; };
+		F5CC849A216A014D0084EBA2 /* WebViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebViewController.swift; sourceTree = "<group>"; };
+		F5CC849D216A025E0084EBA2 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -115,6 +119,7 @@
 			children = (
 				F5870B122169F6390019607B /* Service */,
 				F5870B052169F5AB0019607B /* Utility */,
+				F5CC849C216A02390084EBA2 /* Constants */,
 				F5870B042169F5A40019607B /* Models */,
 				F5870B032169F5970019607B /* ViewModels */,
 				F5870B022169F5900019607B /* Cells */,
@@ -151,6 +156,7 @@
 			children = (
 				F5870B172169F8760019607B /* TopStoryDetailViewController.swift */,
 				F5870B062169F5EA0019607B /* TopStoriesListViewController.swift */,
+				F5CC849A216A014D0084EBA2 /* WebViewController.swift */,
 			);
 			path = Controllers;
 			sourceTree = "<group>";
@@ -195,6 +201,14 @@
 				F5870B132169F6430019607B /* APIService.swift */,
 			);
 			path = Service;
+			sourceTree = "<group>";
+		};
+		F5CC849C216A02390084EBA2 /* Constants */ = {
+			isa = PBXGroup;
+			children = (
+				F5CC849D216A025E0084EBA2 /* Constants.swift */,
+			);
+			path = Constants;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -329,6 +343,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F5870B162169F65B0019607B /* AsyncImageLoader.swift in Sources */,
+				F5CC849B216A014D0084EBA2 /* WebViewController.swift in Sources */,
 				F5870B0F2169F6270019607B /* Multimedia.swift in Sources */,
 				F5870B0B2169F6190019607B /* TopStoriesListViewModel.swift in Sources */,
 				F5870B112169F62F0019607B /* TopStories.swift in Sources */,
@@ -338,6 +353,7 @@
 				F5870B092169F60D0019607B /* TopStoriesListTableViewCell.swift in Sources */,
 				F5870B142169F6430019607B /* APIService.swift in Sources */,
 				F5870AD42169F51C0019607B /* AppDelegate.swift in Sources */,
+				F5CC849E216A025E0084EBA2 /* Constants.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
