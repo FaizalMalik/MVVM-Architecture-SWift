@@ -27,7 +27,9 @@ class TopStoriesListViewController: UIViewController {
         initVM()
         
     }
-    
+    override func viewWillAppear(_ animated: Bool) {
+        initView()
+    }
     func initView() {
         self.navigationItem.title = "Top Stories"
         
