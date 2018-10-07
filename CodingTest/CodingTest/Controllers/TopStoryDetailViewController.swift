@@ -46,12 +46,17 @@ class TopStoryDetailViewController: UIViewController {
     
     
     func updateUI()  {
+        self.btnSeeMore.layer.cornerRadius = 5
+        self.navigationController?.navigationBar.topItem?.title = ""
+        
         imageTopstory.imageFromServerURL((topStoryViewModel?.imageUrl)!,placeHolder: UIImage(named: "placeholder"))
         self.navigationItem.title = topStoryViewModel?.subSection
         self.lblTittle.text = topStoryViewModel?.titleText
         self.ldlDescription.text = topStoryViewModel?.detailsText
         self.lblAuthor.text = topStoryViewModel?.authorText
         self.lblDate.text = topStoryViewModel?.dateText
+        
+        
     }
     
     @IBAction func seeMoreAction(_ sender: Any) {

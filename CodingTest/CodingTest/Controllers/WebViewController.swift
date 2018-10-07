@@ -20,18 +20,18 @@ class WebViewController: UIViewController,WKNavigationDelegate {
         super.viewDidLoad()
 
         // Do any additional setup after loading the view.
-        webview.navigationDelegate = self
-
+       
         loadWebviewUrl()
+        
     }
 
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
     }
-    
-
+    // MARK: - Setup Webview
     func loadWebviewUrl()  {
+         webview.navigationDelegate = self
 //        webview.allowsBackForwardNavigationGestures = true
         activityIndicator.startAnimating()
         let url = URL(string: self.url!)
