@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CodingTest/ViewModels/TopStoriesListViewModel.swift"
+            timestampString = "560594001.78909"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "97"
+            endingLineNumber = "97"
+            landmarkName = "userPressed(at:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CodingTest.TopStoriesListViewModel.userPressed(at: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "CodingTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/Data/works/CodingTest1/CodingTest/CodingTest/ViewModels/TopStoriesListViewModel.swift"
+                  timestampString = "560593431.736975"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "97"
+                  endingLineNumber = "97"
+                  offsetFromSymbolStart = "1751">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (CodingTest.Multimedia) -&gt; Swift.Bool in CodingTest.TopStoriesListViewModel.userPressed(at: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "CodingTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/Data/works/CodingTest1/CodingTest/CodingTest/ViewModels/TopStoriesListViewModel.swift"
+                  timestampString = "560593431.744763"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "98"
+                  endingLineNumber = "98"
+                  offsetFromSymbolStart = "15">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CodingTest/ViewModels/TopStoriesListViewModel.swift"
+            timestampString = "560594001.789186"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "101"
+            endingLineNumber = "101"
+            landmarkName = "userPressed(at:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CodingTest.TopStoriesListViewModel.userPressed(at: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "CodingTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/Data/works/CodingTest1/CodingTest/CodingTest/ViewModels/TopStoriesListViewModel.swift"
+                  timestampString = "560594001.887006"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "101"
+                  endingLineNumber = "101"
+                  offsetFromSymbolStart = "2045">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CodingTest.TopStoriesListViewModel.userPressed(at: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "CodingTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/Data/works/CodingTest1/CodingTest/CodingTest/ViewModels/TopStoriesListViewModel.swift"
+                  timestampString = "560594001.8909709"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "101"
+                  endingLineNumber = "101"
+                  offsetFromSymbolStart = "7620">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CodingTest/ViewModels/TopStoriesListViewModel.swift"
+            timestampString = "560594001.789281"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "96"
+            endingLineNumber = "96"
+            landmarkName = "userPressed(at:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CodingTest/ViewModels/TopStoriesListViewModel.swift"
+            timestampString = "560594001.789362"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "98"
+            endingLineNumber = "98"
+            landmarkName = "userPressed(at:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

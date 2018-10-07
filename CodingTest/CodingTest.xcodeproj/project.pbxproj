@@ -21,6 +21,7 @@
 		F5870B112169F62F0019607B /* TopStories.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5870B102169F62F0019607B /* TopStories.swift */; };
 		F5870B142169F6430019607B /* APIService.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5870B132169F6430019607B /* APIService.swift */; };
 		F5870B162169F65B0019607B /* AsyncImageLoader.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5870B152169F65B0019607B /* AsyncImageLoader.swift */; };
+		F5870B182169F8760019607B /* TopStoryDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5870B172169F8760019607B /* TopStoryDetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -61,6 +62,7 @@
 		F5870B102169F62F0019607B /* TopStories.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TopStories.swift; sourceTree = "<group>"; };
 		F5870B132169F6430019607B /* APIService.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = APIService.swift; sourceTree = "<group>"; };
 		F5870B152169F65B0019607B /* AsyncImageLoader.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AsyncImageLoader.swift; sourceTree = "<group>"; };
+		F5870B172169F8760019607B /* TopStoryDetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TopStoryDetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -147,6 +149,7 @@
 		F5870B012169F5860019607B /* Controllers */ = {
 			isa = PBXGroup;
 			children = (
+				F5870B172169F8760019607B /* TopStoryDetailViewController.swift */,
 				F5870B062169F5EA0019607B /* TopStoriesListViewController.swift */,
 			);
 			path = Controllers;
@@ -330,6 +333,7 @@
 				F5870B0B2169F6190019607B /* TopStoriesListViewModel.swift in Sources */,
 				F5870B112169F62F0019607B /* TopStories.swift in Sources */,
 				F5870B0D2169F6210019607B /* TopStoriesResponse.swift in Sources */,
+				F5870B182169F8760019607B /* TopStoryDetailViewController.swift in Sources */,
 				F5870B072169F5EA0019607B /* TopStoriesListViewController.swift in Sources */,
 				F5870B092169F60D0019607B /* TopStoriesListTableViewCell.swift in Sources */,
 				F5870B142169F6430019607B /* APIService.swift in Sources */,

@@ -123,6 +123,13 @@ extension TopStoriesListViewController: UITableViewDelegate, UITableViewDataSour
 }
 
 extension TopStoriesListViewController {
-
+    override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
+        if let vc = segue.destination as? TopStoryDetailViewController,
+            let topStory = viewModel.selectedTopStory {
+            vc.topStory = topStory
+            
+            
+        }
+    }
 }
 

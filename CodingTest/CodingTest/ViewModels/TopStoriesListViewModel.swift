@@ -100,9 +100,14 @@ extension TopStoriesListViewModel {
         
         let imageUrl =  (multimdeia?.count)! > 0 ? multimdeia![0].url : ""
         
-        let dateString = (topStory.published_date?.components(separatedBy: "T").count)! > 0 ?  topStory.published_date?.components(separatedBy: "T")[0] : ""
+        var dateString = ""
+        if (topStory.published_date != nil){
+            let dateArray = topStory.published_date?.components(separatedBy: "T")
+            
+            dateString = dateArray!.count > 0 ? dateArray![0]  : ""
+        }
         
-        self.selectedTopStory = TopStoryDetailsViewModel(titleText: topStory.title!, authorText: topStory.byline!, imageUrl: imageUrl!, dateText: dateString!, detailsText: topStory.abstract!, seeMoreLink: topStory.url!, subSection: topStory.subsection!)
+        self.selectedTopStory = TopStoryDetailsViewModel(titleText: topStory.title!, authorText: topStory.byline!, imageUrl: imageUrl!, dateText: dateString, detailsText: topStory.abstract!, seeMoreLink: topStory.url!, subSection: topStory.subsection!)
      
         
     }
