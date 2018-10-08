@@ -16,3 +16,15 @@ struct SegueIdentifier {
     
     static let seeMoreSegue = "seeMoreSegue"
 }
+
+struct ImageSize {
+    static let mediumThreeByTwo210 = "mediumThreeByTwo210"
+    static let thumbLarge = "thumbLarge"
+
+}
+
+struct Strings {
+    static let homeTitle = "Top Stories"
+    static let alertTitle = "Alert"
+
+}

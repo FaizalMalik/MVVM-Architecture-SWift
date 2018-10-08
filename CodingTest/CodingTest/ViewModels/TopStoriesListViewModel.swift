@@ -70,7 +70,7 @@ class TopStoriesListViewModel {
     func createCellViewModel( topStory: TopStories ) -> TopStoriesListCellViewModel {
         
         let multimdeia = topStory.multimedia?.filter{
-            $0.format == "thumbLarge"
+            $0.format == ImageSize.thumbLarge
         }
         
         let imageUrl =  (multimdeia?.count)! > 0 ? multimdeia![0].url : ""
@@ -95,7 +95,7 @@ extension TopStoriesListViewModel {
     func userPressed( at indexPath: IndexPath ){
         let topStory = self.topStories[indexPath.row]
         let multimdeia = topStory.multimedia?.filter{
-            $0.format == "mediumThreeByTwo210"
+            $0.format == ImageSize.mediumThreeByTwo210
         }
         
         let imageUrl =  (multimdeia?.count)! > 0 ? multimdeia![0].url : ""

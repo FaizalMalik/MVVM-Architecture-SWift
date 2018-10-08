@@ -27,12 +27,14 @@ class TopStoriesListViewController: UIViewController {
         initVM()
         
     }
+    
     override func viewWillAppear(_ animated: Bool) {
-        initView()
+        self.navigationItem.title = Strings.homeTitle
+
     }
+    
+    //Mark: Setup View Methods
     func initView() {
-        self.navigationItem.title = "Top Stories"
-        
         tableView.estimatedRowHeight = 140
         tableView.rowHeight = UITableViewAutomaticDimension
     }
@@ -76,7 +78,7 @@ class TopStoriesListViewController: UIViewController {
     }
     
     func showAlert( _ message: String ) {
-        let alert = UIAlertController(title: "Alert", message: message, preferredStyle: .alert)
+        let alert = UIAlertController(title: Strings.alertTitle, message: message, preferredStyle: .alert)
         alert.addAction( UIAlertAction(title: "Ok", style: .cancel, handler: nil))
         self.present(alert, animated: true, completion: nil)
     }
