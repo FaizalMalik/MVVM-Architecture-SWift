@@ -1,0 +1,2996 @@
+
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2018 The New York Times Company. All Rights Reserved.",
+    "section": "home",
+    "last_updated": "2018-10-07T21:27:14-04:00",
+    "num_results": 38,
+    "results": [
+        {
+            "section": "Briefing",
+            "subsection": "",
+            "title": "Kavanaugh, Interpol, the Afghan War: Your Monday Briefing",
+            "abstract": "Here’s what you need to know to start your day.",
+            "url": "https://www.nytimes.com/2018/10/07/briefing/kavanaugh-interpol-the-afghan-war.html",
+            "byline": "By ALISHA HARIDASANI GUPTA",
+            "item_type": "Article",
+            "updated_date": "2018-10-07T17:40:06-04:00",
+            "created_date": "2018-10-07T16:18:25-04:00",
+            "published_date": "2018-10-07T16:18:25-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/07/briefing/08Briefing-asia-promo/08Briefing-asia-promo-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/07/briefing/08Briefing-asia-promo/08Briefing-asia-promo-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/07/briefing/08Briefing-asia-promo/08Briefing-asia-slide-YLRT-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/07/briefing/08Briefing-asia-promo/08Briefing-asia-slide-YLRT-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/07/briefing/08Briefing-asia-promo/08Briefing-asia-promo-superJumbo-v2.jpg",
+                    "format": "superJumbo",
+                    "height": 188,
+                    "width": 624,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": ""
+                }
+            ],
+            "short_url": "https://nyti.ms/2CvXyNq"
+        },
+        {
+            "section": "U.S.",
+            "subsection": "Politics",
+            "title": "Court Battle Shifts the Political Terrain for Senators in the Heartland",
+            "abstract": "In North Dakota and other farm states, the heated debate over the Supreme Court has nationalized the fight for the Senate, elating Republicans and worrying Democrats",
+            "url": "https://www.nytimes.com/2018/10/07/us/politics/supreme-court-kavanaugh-senators-midterms-heartland.html",
+            "byline": "By JONATHAN MARTIN",
+            "item_type": "Article",
+            "updated_date": "2018-10-07T21:19:50-04:00",
+            "created_date": "2018-10-07T20:22:43-04:00",
+            "published_date": "2018-10-07T20:22:43-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Politics and Government",
+                "Midterm Elections (2018)"
+            ],
+            "org_facet": [
+                "Democratic Party",
+                "Republican Party",
+                "Senate",
+                "Supreme Court (US)"
+            ],
+            "per_facet": [
+                "Dorgan, Byron L",
+                "Heidi Heitkamp",
+                "Kevin Cramer"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/08/us/08midterms1/08midterms1-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Signs outside of Rutland, N.D., on Sunday. For Senator Heidi Heitkamp and others running in farm states, the Supreme Court debate has changed the battle for control of the Senate.",
+                    "copyright": "Annie Flanagan for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/08/us/08midterms1/08midterms1-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Signs outside of Rutland, N.D., on Sunday. For Senator Heidi Heitkamp and others running in farm states, the Supreme Court debate has changed the battle for control of the Senate.",
+                    "copyright": "Annie Flanagan for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/08/us/08midterms1/08midterms1-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Signs outside of Rutland, N.D., on Sunday. For Senator Heidi Heitkamp and others running in farm states, the Supreme Court debate has changed the battle for control of the Senate.",
+                    "copyright": "Annie Flanagan for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/08/us/08midterms1/08midterms1-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Signs outside of Rutland, N.D., on Sunday. For Senator Heidi Heitkamp and others running in farm states, the Supreme Court debate has changed the battle for control of the Senate.",
+                    "copyright": "Annie Flanagan for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/08/us/08midterms1/08midterms1-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Signs outside of Rutland, N.D., on Sunday. For Senator Heidi Heitkamp and others running in farm states, the Supreme Court debate has changed the battle for control of the Senate.",
+                    "copyright": "Annie Flanagan for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/2IHQLAC"
+        },
+        {
+            "section": "U.S.",
+            "subsection": "Politics",
+            "title": "Wall Street Is Booming Under Trump. But Many of Its Donors Are Embracing Democrats.",
+            "abstract": "The financial community is on pace to give more money to Democratic congressional candidates and incumbents than their Republican counterparts.",
+            "url": "https://www.nytimes.com/2018/10/07/us/politics/wall-street-election-donations.html",
+            "byline": "By SHANE GOLDMACHER",
+            "item_type": "Article",
+            "updated_date": "2018-10-07T18:16:24-04:00",
+            "created_date": "2018-10-07T14:22:01-04:00",
+            "published_date": "2018-10-07T14:22:01-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Campaign Finance",
+                "Midterm Elections (2018)",
+                "Elections, House of Representatives",
+                "Banking and Financial Institutions",
+                "Taxation",
+                "Private Equity"
+            ],
+            "org_facet": [
+                "American Bankers Assn"
+            ],
+            "per_facet": [
+                "Catsimatidis, John A",
+                "Moore, Stephen (1960- )"
+            ],
+            "geo_facet": [
+                "New York City",
+                "New Jersey"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/04/us/politics/00wallstreet1/00wallstreet1-thumbStandard-v2.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Some of the same grass-roots energy coursing through the Democratic Party has spilled into the corporate boardrooms of American finance",
+                    "copyright": "Drew Angerer/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/04/us/politics/00wallstreet1/00wallstreet1-thumbLarge-v2.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Some of the same grass-roots energy coursing through the Democratic Party has spilled into the corporate boardrooms of American finance",
+                    "copyright": "Drew Angerer/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/04/us/politics/00wallstreet1/00wallstreet1-articleInline-v2.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Some of the same grass-roots energy coursing through the Democratic Party has spilled into the corporate boardrooms of American finance",
+                    "copyright": "Drew Angerer/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/04/us/politics/00wallstreet1/00wallstreet1-mediumThreeByTwo210-v3.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Some of the same grass-roots energy coursing through the Democratic Party has spilled into the corporate boardrooms of American finance",
+                    "copyright": "Drew Angerer/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/04/us/politics/00wallstreet1/00wallstreet1-superJumbo-v2.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Some of the same grass-roots energy coursing through the Democratic Party has spilled into the corporate boardrooms of American finance",
+                    "copyright": "Drew Angerer/Getty Images"
+                }
+            ],
+            "short_url": "https://nyti.ms/2CvpaCy"
+        },
+        {
+            "section": "The Upshot",
+            "subsection": "",
+            "title": "Battle for the House Has a Wide Range of Possible Outcomes",
+            "abstract": "The size of the Democratic advantage is unclear, polling shows, and the Kavanaugh controversy introduces an element of volatility.",
+            "url": "https://www.nytimes.com/2018/10/07/upshot/2018-midterms-house-polling-competitive.html",
+            "byline": "By NATE COHN",
+            "item_type": "Article",
+            "updated_date": "2018-10-07T05:26:03-04:00",
+            "created_date": "2018-10-07T05:00:01-04:00",
+            "published_date": "2018-10-07T05:00:01-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Midterm Elections (2018)",
+                "Elections, House of Representatives",
+                "United States Politics and Government",
+                "Polls and Public Opinion",
+                "States (US)"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Kavanaugh, Brett M"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/06/upshot/06up-bigpicture/06up-bigpicture-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The midterms are Nov. 6.",
+                    "copyright": "Jessica Mcgowan/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/06/upshot/06up-bigpicture/06up-bigpicture-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The midterms are Nov. 6.",
+                    "copyright": "Jessica Mcgowan/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/06/upshot/06up-bigpicture/merlin_123748685_1a8c6cdc-e188-4b3d-aa1e-6704c081e9f4-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The midterms are Nov. 6.",
+                    "copyright": "Jessica Mcgowan/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/06/upshot/06up-bigpicture/06up-bigpicture-mediumThreeByTwo210-v2.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The midterms are Nov. 6.",
+                    "copyright": "Jessica Mcgowan/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/06/upshot/06up-bigpicture/merlin_123748685_1a8c6cdc-e188-4b3d-aa1e-6704c081e9f4-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The midterms are Nov. 6.",
+                    "copyright": "Jessica Mcgowan/Getty Images"
+                }
+            ],
+            "short_url": "https://nyti.ms/2IIOrJw"
+        },
+        {
+            "section": "New York",
+            "subsection": "",
+            "title": "Limo Crash Kills 20 in Upstate New York; Nation’s Deadliest Accident in 9 Years",
+            "abstract": "The limousine held the driver and 17 friends headed out to celebrate a birthday at a brewery in Cooperstown, N.Y. Two pedestrians were also killed.",
+            "url": "https://www.nytimes.com/2018/10/07/nyregion/wedding-limo-crash-schoharie-ny.html",
+            "byline": "By JESSE McKINLEY, SHANE GOLDMACHER and LUIS FERRÉ-SADURNÍ",
+            "item_type": "Article",
+            "updated_date": "2018-10-07T21:14:51-04:00",
+            "created_date": "2018-10-07T11:29:37-04:00",
+            "published_date": "2018-10-07T11:29:37-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Traffic Accidents and Safety",
+                "Deaths (Fatalities)"
+            ],
+            "org_facet": [
+                "National Transportation Safety Board"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "Schoharie (NY)"
+            ],
+            "multimedia": [],
+            "short_url": "https://nyti.ms/2IJ3XFg"
+        },
+        {
+            "section": "World",
+            "subsection": "Americas",
+            "title": "Brazil Election Heads to Runoff as Far-Right Candidate Falls Just Short of Outright Win",
+            "abstract": "Fed up with corruption and violence, Brazilians tilted toward Jair Bolsonaro and his promise of an iron fist. He will face Fernando Haddad of the Workers’ Party.",
+            "url": "https://www.nytimes.com/2018/10/07/world/americas/jair-bolsonaro-brazil-election.html",
+            "byline": "By ERNESTO LONDOÑO and MANUELA ANDREONI",
+            "item_type": "Article",
+            "updated_date": "2018-10-07T20:30:41-04:00",
+            "created_date": "2018-10-07T20:15:32-04:00",
+            "published_date": "2018-10-07T20:15:32-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Elections"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Bolsonaro, Jair (1955- )"
+            ],
+            "geo_facet": [
+                "Brazil"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/08/world/08BRAZIL-02/bolsonarowins1-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Jair Bolsonaro campaigning in Rio de Janeiro in August.",
+                    "copyright": "Mauro Pimentel/Agence France-Presse &mdash; Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/08/world/08BRAZIL-02/bolsonarowins1-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Jair Bolsonaro campaigning in Rio de Janeiro in August.",
+                    "copyright": "Mauro Pimentel/Agence France-Presse &mdash; Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/08/world/08BRAZIL-02/bolsonarowins1-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Jair Bolsonaro campaigning in Rio de Janeiro in August.",
+                    "copyright": "Mauro Pimentel/Agence France-Presse &mdash; Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/08/world/08BRAZIL-02/bolsonarowins1-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Jair Bolsonaro campaigning in Rio de Janeiro in August.",
+                    "copyright": "Mauro Pimentel/Agence France-Presse &mdash; Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/08/world/08BRAZIL-02/bolsonarowins1-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Jair Bolsonaro campaigning in Rio de Janeiro in August.",
+                    "copyright": "Mauro Pimentel/Agence France-Presse &mdash; Getty Images"
+                }
+            ],
+            "short_url": "https://nyti.ms/2CviXWV"
+        },
+        {
+            "section": "Climate",
+            "subsection": "",
+            "title": "Major Climate Report Describes a Strong Risk of Crisis as Early as 2040",
+            "abstract": "A landmark United Nations report paints a far more dire picture of the immediate consequences of climate change than previously thought and says that avoiding damage requires quickly transforming the world economy.",
+            "url": "https://www.nytimes.com/2018/10/07/climate/ipcc-climate-report-2040.html",
+            "byline": "By CORAL DAVENPORT",
+            "item_type": "Article",
+            "updated_date": "2018-10-07T21:00:04-04:00",
+            "created_date": "2018-10-07T21:00:04-04:00",
+            "published_date": "2018-10-07T21:00:04-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Global Warming",
+                "Environment",
+                "Greenhouse Gas Emissions",
+                "Carbon Dioxide",
+                "Coal",
+                "United States Politics and Government"
+            ],
+            "org_facet": [
+                "Intergovernmental Panel on Climate Change"
+            ],
+            "per_facet": [
+                "Trump, Donald J"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/08/climate/08cli-heat1/08cli-heat1-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Harry Taylor, 6, played with the bones of dead livestock on his family’s farm in New South Wales, Australia, an area that has faced severe drought.",
+                    "copyright": "Brook Mitchell/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/08/climate/08cli-heat1/08cli-heat1-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Harry Taylor, 6, played with the bones of dead livestock on his family’s farm in New South Wales, Australia, an area that has faced severe drought.",
+                    "copyright": "Brook Mitchell/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/08/climate/08cli-heat1/merlin_141839034_fbe42137-8a08-406c-966d-915fe9f49913-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Harry Taylor, 6, played with the bones of dead livestock on his family’s farm in New South Wales, Australia, an area that has faced severe drought.",
+                    "copyright": "Brook Mitchell/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/08/climate/08cli-heat1/merlin_141839034_fbe42137-8a08-406c-966d-915fe9f49913-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Harry Taylor, 6, played with the bones of dead livestock on his family’s farm in New South Wales, Australia, an area that has faced severe drought.",
+                    "copyright": "Brook Mitchell/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/08/climate/08cli-heat1/merlin_141839034_fbe42137-8a08-406c-966d-915fe9f49913-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Harry Taylor, 6, played with the bones of dead livestock on his family’s farm in New South Wales, Australia, an area that has faced severe drought.",
+                    "copyright": "Brook Mitchell/Getty Images"
+                }
+            ],
+            "short_url": "https://nyti.ms/2Cw5MF8"
+        },
+        {
+            "section": "World",
+            "subsection": "Middle East",
+            "title": "Jamal Khashoggi Disappears, a Mystery Rattling the Middle East",
+            "abstract": "A Saudi dissident has not been seen since he entered the Saudi consulate in Istanbul on Tuesday. Turkey says he was killed there. Saudi officials deny it.",
+            "url": "https://www.nytimes.com/2018/10/07/world/middleeast/turkey-jamal-khashoggi-saudi-arabia.html",
+            "byline": "By DAVID D. KIRKPATRICK and BEN HUBBARD",
+            "item_type": "Article",
+            "updated_date": "2018-10-07T20:19:40-04:00",
+            "created_date": "2018-10-07T10:14:21-04:00",
+            "published_date": "2018-10-07T10:14:21-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Missing Persons",
+                "News and News Media",
+                "Freedom of the Press",
+                "International Relations"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Khashoggi, Jamal"
+            ],
+            "geo_facet": [
+                "Turkey",
+                "Saudi Arabia"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/08/world/08Turkey1sub/08Turkey1sub-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Protesters held posters of the missing journalist Jamal Khashoggi during a demonstration in front of the Saudi Consulate in Istanbul on Friday.",
+                    "copyright": "Ozan Kose/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/08/world/08Turkey1sub/08Turkey1sub-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Protesters held posters of the missing journalist Jamal Khashoggi during a demonstration in front of the Saudi Consulate in Istanbul on Friday.",
+                    "copyright": "Ozan Kose/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/08/world/08Turkey1sub/08Turkey1sub-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Protesters held posters of the missing journalist Jamal Khashoggi during a demonstration in front of the Saudi Consulate in Istanbul on Friday.",
+                    "copyright": "Ozan Kose/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/08/world/08Turkey1sub/08Turkey1sub-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Protesters held posters of the missing journalist Jamal Khashoggi during a demonstration in front of the Saudi Consulate in Istanbul on Friday.",
+                    "copyright": "Ozan Kose/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/08/world/08Turkey1sub/08Turkey1sub-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Protesters held posters of the missing journalist Jamal Khashoggi during a demonstration in front of the Saudi Consulate in Istanbul on Friday.",
+                    "copyright": "Ozan Kose/Agence France-Presse — Getty Images"
+                }
+            ],
+            "short_url": "https://nyti.ms/2IN8c2R"
+        },
+        {
+            "section": "World",
+            "subsection": "Asia Pacific",
+            "title": "Interpol Chief, Detained by China, Resigns Under ‘Supervision’ of Party Watchdog",
+            "abstract": "Days after Meng Hongwei was reported missing, a Chinese agency announced it had him under investigation. Hours earlier, his wife said he had sent her an emoji of a knife.",
+            "url": "https://www.nytimes.com/2018/10/07/world/asia/china-interpol-men-hongwei.html",
+            "byline": "By EDWARD WONG and ALISSA J. RUBIN",
+            "item_type": "Article",
+            "updated_date": "2018-10-07T18:26:19-04:00",
+            "created_date": "2018-10-07T13:27:25-04:00",
+            "published_date": "2018-10-07T13:27:25-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Corruption (Institutional)",
+                "Missing Persons"
+            ],
+            "org_facet": [
+                "Interpol (International Criminal Police Organization)",
+                "Central Commission for Discipline Inspection (Communist Party of China)",
+                "Ministry of Public Security of the People's Republic of China"
+            ],
+            "per_facet": [
+                "Meng Hongwei (1953- )"
+            ],
+            "geo_facet": [
+                "China",
+                "France"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/08/world/08INTERPOL-02/08INTERPOL-02-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "China says Meng Hongwei, Interpol&rsquo;s president, is under investigation for unspecified legal violations.",
+                    "copyright": "Wong Maye-E/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/08/world/08INTERPOL-02/08INTERPOL-02-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "China says Meng Hongwei, Interpol&rsquo;s president, is under investigation for unspecified legal violations.",
+                    "copyright": "Wong Maye-E/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/08/world/08INTERPOL-02/merlin_144863127_4bbc8579-fd52-4e4e-9fd6-367f39043c62-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "China says Meng Hongwei, Interpol&rsquo;s president, is under investigation for unspecified legal violations.",
+                    "copyright": "Wong Maye-E/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/08/world/08INTERPOL-02/merlin_144863127_4bbc8579-fd52-4e4e-9fd6-367f39043c62-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "China says Meng Hongwei, Interpol&rsquo;s president, is under investigation for unspecified legal violations.",
+                    "copyright": "Wong Maye-E/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/08/world/08INTERPOL-02/merlin_144863127_4bbc8579-fd52-4e4e-9fd6-367f39043c62-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "China says Meng Hongwei, Interpol&rsquo;s president, is under investigation for unspecified legal violations.",
+                    "copyright": "Wong Maye-E/Associated Press"
+                }
+            ],
+            "short_url": "https://nyti.ms/2CwFXVL"
+        },
+        {
+            "section": "New York",
+            "subsection": "",
+            "title": "The World’s Oldest Barber Is 107 and Still Cutting Hair Full Time",
+            "abstract": "With his still steady hands, Anthony Mancinelli has cut generations of hair, and styles. His secret to longevity? Putting in a satisfying day’s work, he said.",
+            "url": "https://www.nytimes.com/2018/10/07/nyregion/worlds-oldest-barber-anthony-mancinelli.html",
+            "byline": "By COREY KILGANNON",
+            "item_type": "Article",
+            "updated_date": "2018-10-07T13:52:27-04:00",
+            "created_date": "2018-10-07T13:52:27-04:00",
+            "published_date": "2018-10-07T13:52:27-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Barbers and Barbering",
+                "Longevity"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Mancinelli, Anthony"
+            ],
+            "geo_facet": [
+                "New Windsor (NY)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/02/nyregion/00barber/00barber-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Anthony Mancinelli started working in barbershops when Warren Harding was in the White House.",
+                    "copyright": "Andrew Seng for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/02/nyregion/00barber/00barber-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Anthony Mancinelli started working in barbershops when Warren Harding was in the White House.",
+                    "copyright": "Andrew Seng for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/02/nyregion/00barber/merlin_144494352_59894e45-a431-4d7c-9999-29b9350c0803-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Anthony Mancinelli started working in barbershops when Warren Harding was in the White House.",
+                    "copyright": "Andrew Seng for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/02/nyregion/00barber/00barber-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Anthony Mancinelli started working in barbershops when Warren Harding was in the White House.",
+                    "copyright": "Andrew Seng for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/02/nyregion/00barber/merlin_144494352_59894e45-a431-4d7c-9999-29b9350c0803-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1367,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Anthony Mancinelli started working in barbershops when Warren Harding was in the White House.",
+                    "copyright": "Andrew Seng for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/2IIvjeD"
+        },
+        {
+            "section": "Opinion",
+            "subsection": "",
+            "title": "A Last Hope for Truth in a Mass Lynching",
+            "abstract": "A federal appeals court should release records of a grand jury that held no one responsible for a 1946 Georgia horror.",
+            "url": "https://www.nytimes.com/2018/10/07/opinion/truth-mass-lynching.html",
+            "byline": "By THE EDITORIAL BOARD",
+            "item_type": "Article",
+            "updated_date": "2018-10-07T20:44:13-04:00",
+            "created_date": "2018-10-07T20:18:57-04:00",
+            "published_date": "2018-10-07T20:18:57-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Lynching"
+            ],
+            "org_facet": [
+                "New York Times"
+            ],
+            "per_facet": [
+                "Hoover, J Edgar"
+            ],
+            "geo_facet": [
+                "Georgia"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/05/opinion/05lynching1web/05lynching1web-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Walton County, Ga., monument at the National Memorial for Peace and Justice in Montgomery, Ala.",
+                    "copyright": "Mickey Welsh for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/05/opinion/05lynching1web/05lynching1web-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Walton County, Ga., monument at the National Memorial for Peace and Justice in Montgomery, Ala.",
+                    "copyright": "Mickey Welsh for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/05/opinion/05lynching1web/merlin_144873450_c3061c5a-0522-43b6-b25a-eb85bd4680d0-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Walton County, Ga., monument at the National Memorial for Peace and Justice in Montgomery, Ala.",
+                    "copyright": "Mickey Welsh for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/05/opinion/05lynching1web/05lynching1web-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Walton County, Ga., monument at the National Memorial for Peace and Justice in Montgomery, Ala.",
+                    "copyright": "Mickey Welsh for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/05/opinion/05lynching1web/merlin_144873450_c3061c5a-0522-43b6-b25a-eb85bd4680d0-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1367,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Walton County, Ga., monument at the National Memorial for Peace and Justice in Montgomery, Ala.",
+                    "copyright": "Mickey Welsh for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/2IHPgCu"
+        },
+        {
+            "section": "Opinion",
+            "subsection": "",
+            "title": "Get Angry, and Get Involved",
+            "abstract": "The midterm elections are the smart way to make your influence felt in today’s toxic political atmosphere.",
+            "url": "https://www.nytimes.com/2018/10/07/opinion/midterms-trump-republicans-supreme-court.html",
+            "byline": "By DAVID LEONHARDT",
+            "item_type": "Article",
+            "updated_date": "2018-10-07T18:58:09-04:00",
+            "created_date": "2018-10-07T18:58:09-04:00",
+            "published_date": "2018-10-07T18:58:09-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Midterm Elections (2018)",
+                "United States Politics and Government",
+                "Voting and Voters",
+                "Polls and Public Opinion",
+                "Appointments and Executive Changes"
+            ],
+            "org_facet": [
+                "Republican Party",
+                "Senate",
+                "Supreme Court (US)"
+            ],
+            "per_facet": [
+                "Gorsuch, Neil M",
+                "Kavanaugh, Brett M",
+                "Mueller, Robert S III",
+                "Trump, Donald J"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/07/opinion/07leonhardt/merlin_144953298_36182316-ed6d-4ab5-aa36-6db50af58aa1-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Protesters demonstrated against the confirmation of Judge Brett Kavanaugh to the Supreme Court on Saturday in Washington.",
+                    "copyright": "Chip Somodevilla/Getty Images North America"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/07/opinion/07leonhardt/merlin_144953298_36182316-ed6d-4ab5-aa36-6db50af58aa1-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Protesters demonstrated against the confirmation of Judge Brett Kavanaugh to the Supreme Court on Saturday in Washington.",
+                    "copyright": "Chip Somodevilla/Getty Images North America"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/07/opinion/07leonhardt/merlin_144953298_36182316-ed6d-4ab5-aa36-6db50af58aa1-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Protesters demonstrated against the confirmation of Judge Brett Kavanaugh to the Supreme Court on Saturday in Washington.",
+                    "copyright": "Chip Somodevilla/Getty Images North America"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/07/opinion/07leonhardt/merlin_144953298_36182316-ed6d-4ab5-aa36-6db50af58aa1-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Protesters demonstrated against the confirmation of Judge Brett Kavanaugh to the Supreme Court on Saturday in Washington.",
+                    "copyright": "Chip Somodevilla/Getty Images North America"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/07/opinion/07leonhardt/merlin_144953298_36182316-ed6d-4ab5-aa36-6db50af58aa1-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Protesters demonstrated against the confirmation of Judge Brett Kavanaugh to the Supreme Court on Saturday in Washington.",
+                    "copyright": "Chip Somodevilla/Getty Images North America"
+                }
+            ],
+            "short_url": "https://nyti.ms/2CuvBFV"
+        },
+        {
+            "section": "Opinion",
+            "subsection": "",
+            "title": "Liberals, This is War",
+            "abstract": "What’s at stake is much more than a single Supreme Court seat.",
+            "url": "https://www.nytimes.com/2018/10/07/opinion/brett-kavanaugh-supreme-court.html",
+            "byline": "By CHARLES M. BLOW",
+            "item_type": "Article",
+            "updated_date": "2018-10-07T18:55:03-04:00",
+            "created_date": "2018-10-07T18:55:02-04:00",
+            "published_date": "2018-10-07T18:55:02-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Constitution (US)",
+                "Liberalism (US Politics)",
+                "United States Politics and Government",
+                "State Legislatures",
+                "States (US)"
+            ],
+            "org_facet": [
+                "Federalist Society",
+                "Supreme Court (US)"
+            ],
+            "per_facet": [
+                "Kavanaugh, Brett M",
+                "Trump, Donald J"
+            ],
+            "geo_facet": [
+                "United States"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/07/opinion/07blow/merlin_144957354_21a14ac2-10c1-4468-86d2-ebabf2896b53-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Demonstrators protesting at the steps of the Supreme Court on Saturday against the  Brett Kavanaugh nomination.",
+                    "copyright": "Jose Luis Magana/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/07/opinion/07blow/merlin_144957354_21a14ac2-10c1-4468-86d2-ebabf2896b53-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Demonstrators protesting at the steps of the Supreme Court on Saturday against the  Brett Kavanaugh nomination.",
+                    "copyright": "Jose Luis Magana/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/07/opinion/07blow/merlin_144957354_21a14ac2-10c1-4468-86d2-ebabf2896b53-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 123,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Demonstrators protesting at the steps of the Supreme Court on Saturday against the  Brett Kavanaugh nomination.",
+                    "copyright": "Jose Luis Magana/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/07/opinion/07blow/merlin_144957354_21a14ac2-10c1-4468-86d2-ebabf2896b53-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Demonstrators protesting at the steps of the Supreme Court on Saturday against the  Brett Kavanaugh nomination.",
+                    "copyright": "Jose Luis Magana/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/07/opinion/07blow/merlin_144957354_21a14ac2-10c1-4468-86d2-ebabf2896b53-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1326,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Demonstrators protesting at the steps of the Supreme Court on Saturday against the  Brett Kavanaugh nomination.",
+                    "copyright": "Jose Luis Magana/Agence France-Presse — Getty Images"
+                }
+            ],
+            "short_url": "https://nyti.ms/2IIK2WX"
+        },
+        {
+            "section": "Opinion",
+            "subsection": "Sunday Review",
+            "title": "The Prison ‘Old-Timers’ Who Gave Me Life",
+            "abstract": "Aging inmates, some serving life sentences, helped me turn my life around. They could do even more good on the outside.",
+            "url": "https://www.nytimes.com/2018/10/06/opinion/sunday/aging-inmates-prisons-mandatory-sentencing.html",
+            "byline": "By DARNELL EPPS",
+            "item_type": "Article",
+            "updated_date": "2018-10-06T15:01:10-04:00",
+            "created_date": "2018-10-06T15:01:10-04:00",
+            "published_date": "2018-10-06T15:01:10-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Prisons and Prisoners",
+                "Ex-Convicts",
+                "Mentors",
+                "Sentences (Criminal)"
+            ],
+            "org_facet": [
+                "Five Points Correctional Facility"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "New York State"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/07/sunday-review/07EPPSSUBB/07EPPSSUBB-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The author, Darnell Epps. After serving 17 years in prison, he is now a full-time student at Cornell.",
+                    "copyright": "Shane Lavalette for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/07/sunday-review/07EPPSSUBB/07EPPSSUBB-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The author, Darnell Epps. After serving 17 years in prison, he is now a full-time student at Cornell.",
+                    "copyright": "Shane Lavalette for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/07/sunday-review/07EPPSSUBB/07EPPSSUBB-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 238,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The author, Darnell Epps. After serving 17 years in prison, he is now a full-time student at Cornell.",
+                    "copyright": "Shane Lavalette for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/07/sunday-review/07EPPSSUBB/07EPPSSUBB-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The author, Darnell Epps. After serving 17 years in prison, he is now a full-time student at Cornell.",
+                    "copyright": "Shane Lavalette for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/07/sunday-review/07EPPSSUBB/07EPPSSUBB-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 2048,
+                    "width": 1639,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The author, Darnell Epps. After serving 17 years in prison, he is now a full-time student at Cornell.",
+                    "copyright": "Shane Lavalette for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/2IJvNRC"
+        },
+        {
+            "section": "Opinion",
+            "subsection": "Sunday Review",
+            "title": "‘This Moment Turned Out to Be Fleeting’",
+            "abstract": "Nine reflections on #MeToo, one year on.",
+            "url": "https://www.nytimes.com/2018/10/06/opinion/me-too-weinstein-one-year.html",
+            "byline": "",
+            "item_type": "Article",
+            "updated_date": "2018-10-06T12:06:55-04:00",
+            "created_date": "2018-10-06T12:06:55-04:00",
+            "published_date": "2018-10-06T12:06:55-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "#MeToo Movement",
+                "Sexual Harassment",
+                "Women and Girls",
+                "Sex Crimes",
+                "Men and Boys",
+                "Women's Rights"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Weinstein, Harvey",
+                "Ansari, Aziz",
+                "Burke, Tarana",
+                "C K, Louis",
+                "Hill, Anita"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2018/02/06/opinion/05mackinnon-web/05mackinnon-web-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Democratic House members dressed in black on Tuesday in a show of solidarity against sexual assault.",
+                    "copyright": "Gabriella Demczuk for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/02/06/opinion/05mackinnon-web/05mackinnon-web-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Democratic House members dressed in black on Tuesday in a show of solidarity against sexual assault.",
+                    "copyright": "Gabriella Demczuk for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/02/06/opinion/05mackinnon-web/merlin_133106439_89d10687-daa3-46dc-ae45-9e2516f55aa2-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 71,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Democratic House members dressed in black on Tuesday in a show of solidarity against sexual assault.",
+                    "copyright": "Gabriella Demczuk for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/02/06/opinion/05mackinnon-web/merlin_133106439_89d10687-daa3-46dc-ae45-9e2516f55aa2-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Democratic House members dressed in black on Tuesday in a show of solidarity against sexual assault.",
+                    "copyright": "Gabriella Demczuk for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/02/06/opinion/05mackinnon-web/merlin_133106439_89d10687-daa3-46dc-ae45-9e2516f55aa2-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 760,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Democratic House members dressed in black on Tuesday in a show of solidarity against sexual assault.",
+                    "copyright": "Gabriella Demczuk for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/2CvpelB"
+        },
+        {
+            "section": "New York",
+            "subsection": "",
+            "title": "A 12th Century Relic Meets a 21st Century Technology",
+            "abstract": "Curators enlisted a drone to survey damage to the Fuentidueña apse, which dates to the 12th century, at the Metropolitan Museum of Art’s Cloisters in Northern Manhattan.",
+            "url": "https://www.nytimes.com/2018/10/07/nyregion/a-12th-century-relic-meets-a-21st-century-technology.html",
+            "byline": "By JAMES BARRON",
+            "item_type": "Article",
+            "updated_date": "2018-10-07T13:40:36-04:00",
+            "created_date": "2018-10-07T05:00:05-04:00",
+            "published_date": "2018-10-07T05:00:05-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Museums",
+                "Drones (Pilotless Planes)"
+            ],
+            "org_facet": [
+                "Metropolitan Museum of Art",
+                "Cloisters, The"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "Manhattan (NYC)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/08/nyregion/08grace1/08grace1-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Edward Kostakis, 35, a drone pilot certified by the Federal Aviation Administration, operating the aircraft for a condition report on the Fuentidueña apse in Manhattan.",
+                    "copyright": "Hiroko Masuike/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/08/nyregion/08grace1/08grace1-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Edward Kostakis, 35, a drone pilot certified by the Federal Aviation Administration, operating the aircraft for a condition report on the Fuentidueña apse in Manhattan.",
+                    "copyright": "Hiroko Masuike/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/08/nyregion/08grace1/merlin_144816729_2e9386aa-9325-4284-a62f-94d42bab7b62-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Edward Kostakis, 35, a drone pilot certified by the Federal Aviation Administration, operating the aircraft for a condition report on the Fuentidueña apse in Manhattan.",
+                    "copyright": "Hiroko Masuike/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/08/nyregion/08grace1/merlin_144816729_2e9386aa-9325-4284-a62f-94d42bab7b62-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Edward Kostakis, 35, a drone pilot certified by the Federal Aviation Administration, operating the aircraft for a condition report on the Fuentidueña apse in Manhattan.",
+                    "copyright": "Hiroko Masuike/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/08/nyregion/08grace1/merlin_144816729_2e9386aa-9325-4284-a62f-94d42bab7b62-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Edward Kostakis, 35, a drone pilot certified by the Federal Aviation Administration, operating the aircraft for a condition report on the Fuentidueña apse in Manhattan.",
+                    "copyright": "Hiroko Masuike/The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/2IJf15h"
+        },
+        {
+            "section": "Arts",
+            "subsection": "Art & Design",
+            "title": "Why Did Leonardo Draw These Weird Faces?",
+            "abstract": "Some scholars see doodles, and others an artist trying to understand the range of human emotion. The faces are the focus of a new exhibit in the Netherlands.",
+            "url": "https://www.nytimes.com/2018/10/05/arts/design/leonardo-faces-teylers-museum.html",
+            "byline": "By NINA SIEGAL",
+            "item_type": "Article",
+            "updated_date": "2018-10-05T05:18:49-04:00",
+            "created_date": "2018-10-05T05:18:49-04:00",
+            "published_date": "2018-10-05T05:18:49-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Art",
+                "Museums"
+            ],
+            "org_facet": [
+                "Teylers Museum (Haarlem, Netherlands)"
+            ],
+            "per_facet": [
+                "da Vinci, Leonardo"
+            ],
+            "geo_facet": [
+                "Netherlands"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/06/arts/06leonardo5/06leonardo5-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Leonardo da Vinci’s “Studies of the Heads of Two Warriors,” drawn around 1505. It is among several Leonardo drawings on display at the Teylers Museum in Haarlerm, the Netherlands.",
+                    "copyright": "Museum of Fine Arts, Budapest"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/06/arts/06leonardo5/06leonardo5-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Leonardo da Vinci’s “Studies of the Heads of Two Warriors,” drawn around 1505. It is among several Leonardo drawings on display at the Teylers Museum in Haarlerm, the Netherlands.",
+                    "copyright": "Museum of Fine Arts, Budapest"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/06/arts/06leonardo5/merlin_144417720_266e61db-40b8-4ee1-89ed-1db6c9825c47-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 194,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Leonardo da Vinci’s “Studies of the Heads of Two Warriors,” drawn around 1505. It is among several Leonardo drawings on display at the Teylers Museum in Haarlerm, the Netherlands.",
+                    "copyright": "Museum of Fine Arts, Budapest"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/06/arts/06leonardo5/06leonardo5-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Leonardo da Vinci’s “Studies of the Heads of Two Warriors,” drawn around 1505. It is among several Leonardo drawings on display at the Teylers Museum in Haarlerm, the Netherlands.",
+                    "copyright": "Museum of Fine Arts, Budapest"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/06/arts/06leonardo5/merlin_144417720_266e61db-40b8-4ee1-89ed-1db6c9825c47-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 2048,
+                    "width": 2008,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Leonardo da Vinci’s “Studies of the Heads of Two Warriors,” drawn around 1505. It is among several Leonardo drawings on display at the Teylers Museum in Haarlerm, the Netherlands.",
+                    "copyright": "Museum of Fine Arts, Budapest"
+                }
+            ],
+            "short_url": "https://nyti.ms/2CrQZvg"
+        },
+        {
+            "section": "U.S.",
+            "subsection": "",
+            "title": "A Father’s Photo Reignites the Conversation About Diaper Changing Stations",
+            "abstract": "Donte Palmer posted a photo online showing how he changes his son’s diaper in public restrooms without changing stations. Messages of support flooded in from fathers around the world.",
+            "url": "https://www.nytimes.com/2018/10/05/us/father-changing-diaper-photo.html",
+            "byline": "By MELISSA GOMEZ",
+            "item_type": "Article",
+            "updated_date": "2018-10-05T06:52:39-04:00",
+            "created_date": "2018-10-05T06:52:39-04:00",
+            "published_date": "2018-10-05T06:52:39-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Diapers",
+                "Bathrooms and Toilets",
+                "Parenting",
+                "Law and Legislation"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Palmer, Donte (1986- )"
+            ],
+            "geo_facet": [
+                "Jacksonville (Fla)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/05/health/05xp-diapers/05xp-diapers-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Donte Palmer, 31, changing his 1-year-old son’s diaper at a restaurant in Jacksonville, Fla., last month. His online post about the experience reignited the conversation about gender equality and changing stations.",
+                    "copyright": "Isaiah Wells-Thomas"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/05/health/05xp-diapers/05xp-diapers-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Donte Palmer, 31, changing his 1-year-old son’s diaper at a restaurant in Jacksonville, Fla., last month. His online post about the experience reignited the conversation about gender equality and changing stations.",
+                    "copyright": "Isaiah Wells-Thomas"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/05/health/05xp-diapers/05xp-diapers-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 190,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Donte Palmer, 31, changing his 1-year-old son’s diaper at a restaurant in Jacksonville, Fla., last month. His online post about the experience reignited the conversation about gender equality and changing stations.",
+                    "copyright": "Isaiah Wells-Thomas"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/05/health/05xp-diapers/05xp-diapers-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Donte Palmer, 31, changing his 1-year-old son’s diaper at a restaurant in Jacksonville, Fla., last month. His online post about the experience reignited the conversation about gender equality and changing stations.",
+                    "copyright": "Isaiah Wells-Thomas"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/05/health/05xp-diapers/05xp-diapers-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1968,
+                    "width": 1967,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Donte Palmer, 31, changing his 1-year-old son’s diaper at a restaurant in Jacksonville, Fla., last month. His online post about the experience reignited the conversation about gender equality and changing stations.",
+                    "copyright": "Isaiah Wells-Thomas"
+                }
+            ],
+            "short_url": "https://nyti.ms/2BYoQen"
+        },
+        {
+            "section": "Business Day",
+            "subsection": "",
+            "title": "China to Pump $174 Billion Into Its Economy as Slowdown and Trade War Loom",
+            "abstract": "The move by the Chinese central bank on Sunday indicates Beijing’s growing worries over the country’s economic health.",
+            "url": "https://www.nytimes.com/2018/10/07/business/china-lending-trade-war.html",
+            "byline": "By ALEXANDRA STEVENSON",
+            "item_type": "Article",
+            "updated_date": "2018-10-07T17:37:21-04:00",
+            "created_date": "2018-10-07T04:59:44-04:00",
+            "published_date": "2018-10-07T04:59:44-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "International Trade and World Market"
+            ],
+            "org_facet": [
+                "People's Bank of China"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "China"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/08/world/08china-econ/08china-econ-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Vegetables vendors in Nanning, Guangxi Zhuang Autonomous Region, China. Signs of deepening economic troubles have been showing in China for months.",
+                    "copyright": "China Network/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/08/world/08china-econ/08china-econ-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Vegetables vendors in Nanning, Guangxi Zhuang Autonomous Region, China. Signs of deepening economic troubles have been showing in China for months.",
+                    "copyright": "China Network/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/08/world/08china-econ/merlin_144653058_d27c54ad-6bcf-4bce-9d88-1d60572cc6a3-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Vegetables vendors in Nanning, Guangxi Zhuang Autonomous Region, China. Signs of deepening economic troubles have been showing in China for months.",
+                    "copyright": "China Network/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/08/world/08china-econ/merlin_144653058_d27c54ad-6bcf-4bce-9d88-1d60572cc6a3-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Vegetables vendors in Nanning, Guangxi Zhuang Autonomous Region, China. Signs of deepening economic troubles have been showing in China for months.",
+                    "copyright": "China Network/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/08/world/08china-econ/merlin_144653058_d27c54ad-6bcf-4bce-9d88-1d60572cc6a3-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Vegetables vendors in Nanning, Guangxi Zhuang Autonomous Region, China. Signs of deepening economic troubles have been showing in China for months.",
+                    "copyright": "China Network/Reuters"
+                }
+            ],
+            "short_url": "https://nyti.ms/2IHhkG1"
+        },
+        {
+            "section": "Business Day",
+            "subsection": "",
+            "title": "Student Loan Collector Navient Considered Settling. Then Trump Won.",
+            "abstract": "Talks between the big student debt collector and the government broke down after President Trump’s victory. Now Navient is making its case not just in court but in person.",
+            "url": "https://www.nytimes.com/2018/10/07/business/student-loans-navient.html",
+            "byline": "By STACY COWLEY",
+            "item_type": "Article",
+            "updated_date": "2018-10-07T14:21:59-04:00",
+            "created_date": "2018-10-07T14:21:59-04:00",
+            "published_date": "2018-10-07T14:21:59-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Frauds and Swindling",
+                "Attorneys General",
+                "Consumer Protection",
+                "Student Loans",
+                "Debt Collection"
+            ],
+            "org_facet": [
+                "Consumer Financial Protection Bureau",
+                "Navient Corporation"
+            ],
+            "per_facet": [
+                "Gansler, Douglas F",
+                "Coakley, Martha M",
+                "Becerra, Xavier",
+                "Remondi, John F.",
+                "Mulvaney, Mick"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/06/business/06NAVIENT05/merlin_141100971_3a8133e0-940e-4fbe-ba7c-7d451a65aeaa-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Mick Mulvaney, the interim director of the Consumer Financial Protection Bureau, which sued Navient under his predecessor during the Obama administration.",
+                    "copyright": "Jim Lo Scalzo/EPA, via Shutterstock"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/06/business/06NAVIENT05/merlin_141100971_3a8133e0-940e-4fbe-ba7c-7d451a65aeaa-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Mick Mulvaney, the interim director of the Consumer Financial Protection Bureau, which sued Navient under his predecessor during the Obama administration.",
+                    "copyright": "Jim Lo Scalzo/EPA, via Shutterstock"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/06/business/06NAVIENT05/merlin_141100971_3a8133e0-940e-4fbe-ba7c-7d451a65aeaa-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Mick Mulvaney, the interim director of the Consumer Financial Protection Bureau, which sued Navient under his predecessor during the Obama administration.",
+                    "copyright": "Jim Lo Scalzo/EPA, via Shutterstock"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/06/business/06NAVIENT05/merlin_141100971_3a8133e0-940e-4fbe-ba7c-7d451a65aeaa-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Mick Mulvaney, the interim director of the Consumer Financial Protection Bureau, which sued Navient under his predecessor during the Obama administration.",
+                    "copyright": "Jim Lo Scalzo/EPA, via Shutterstock"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/06/business/06NAVIENT05/merlin_141100971_3a8133e0-940e-4fbe-ba7c-7d451a65aeaa-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Mick Mulvaney, the interim director of the Consumer Financial Protection Bureau, which sued Navient under his predecessor during the Obama administration.",
+                    "copyright": "Jim Lo Scalzo/EPA, via Shutterstock"
+                }
+            ],
+            "short_url": "https://nyti.ms/2Cx9kHB"
+        },
+        {
+            "section": "Obituaries",
+            "subsection": "",
+            "title": "Audrey Wells, Screenwriter Behind ‘The Hate U Give,’ Dies at 58",
+            "abstract": "Audrey Wells, whose work included “Under the Tuscan Sun,” had been privately battling cancer for five years. She died the day before her latest film hit theaters.",
+            "url": "https://www.nytimes.com/2018/10/07/obituaries/audrey-wells-dead.html",
+            "byline": "By SARAH MERVOSH",
+            "item_type": "Article",
+            "updated_date": "2018-10-07T15:14:32-04:00",
+            "created_date": "2018-10-07T09:56:25-04:00",
+            "published_date": "2018-10-07T09:56:25-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Deaths (Obituaries)",
+                "Movies"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Wells, Audrey"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/08/us/08xp-wells/07xp-wells-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Audrey Wells directing &ldquo;Under the Tuscan Sun&rdquo; in 2003.",
+                    "copyright": "Buena Vista, via Alamy"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/08/us/08xp-wells/07xp-wells-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Audrey Wells directing &ldquo;Under the Tuscan Sun&rdquo; in 2003.",
+                    "copyright": "Buena Vista, via Alamy"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/08/us/08xp-wells/07xp-wells-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 123,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Audrey Wells directing &ldquo;Under the Tuscan Sun&rdquo; in 2003.",
+                    "copyright": "Buena Vista, via Alamy"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/08/us/08xp-wells/07xp-wells-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Audrey Wells directing &ldquo;Under the Tuscan Sun&rdquo; in 2003.",
+                    "copyright": "Buena Vista, via Alamy"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/08/us/08xp-wells/07xp-wells-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1324,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Audrey Wells directing &ldquo;Under the Tuscan Sun&rdquo; in 2003.",
+                    "copyright": "Buena Vista, via Alamy"
+                }
+            ],
+            "short_url": "https://nyti.ms/2IFWDKu"
+        },
+        {
+            "section": "Movies",
+            "subsection": "",
+            "title": "Venom and Lady Gaga Push Movie-Ticket Sales to an October Record",
+            "abstract": "Huge turnout for “Venom” and “A Star Is Born” gave Hollywood its best October weekend ever. “Venom” came in first place, but both films exceeded expectations.",
+            "url": "https://www.nytimes.com/2018/10/07/movies/venom-a-star-is-born-box-office.html",
+            "byline": "By BROOKS BARNES",
+            "item_type": "Article",
+            "updated_date": "2018-10-07T15:01:48-04:00",
+            "created_date": "2018-10-07T14:59:38-04:00",
+            "published_date": "2018-10-07T14:59:38-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Movies",
+                "Venom (Movie)",
+                "A Star Is Born (Movie)"
+            ],
+            "org_facet": [
+                "Warner Brothers Pictures",
+                "Sony Pictures Entertainment"
+            ],
+            "per_facet": [
+                "Lady Gaga",
+                "Cooper, Bradley"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/08/arts/08arts1/merlin_144555675_43858d26-5c68-4807-b6d6-d8e67b56ec04-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "“Venom,” about a fanged Marvel anti-hero, sold about $80 million in tickets over the weekend.",
+                    "copyright": "Columbia Pictures/Sony Pictures"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/08/arts/08arts1/merlin_144555675_43858d26-5c68-4807-b6d6-d8e67b56ec04-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "“Venom,” about a fanged Marvel anti-hero, sold about $80 million in tickets over the weekend.",
+                    "copyright": "Columbia Pictures/Sony Pictures"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/08/arts/08arts1/merlin_144555675_43858d26-5c68-4807-b6d6-d8e67b56ec04-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 169,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "“Venom,” about a fanged Marvel anti-hero, sold about $80 million in tickets over the weekend.",
+                    "copyright": "Columbia Pictures/Sony Pictures"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/08/arts/08arts1/08box3-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "“Venom,” about a fanged Marvel anti-hero, sold about $80 million in tickets over the weekend.",
+                    "copyright": "Columbia Pictures/Sony Pictures"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/08/arts/08arts1/merlin_144555675_43858d26-5c68-4807-b6d6-d8e67b56ec04-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1200,
+                    "width": 1353,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "“Venom,” about a fanged Marvel anti-hero, sold about $80 million in tickets over the weekend.",
+                    "copyright": "Columbia Pictures/Sony Pictures"
+                }
+            ],
+            "short_url": "https://nyti.ms/2INl1dv"
+        },
+        {
+            "section": "World",
+            "subsection": "Australia",
+            "title": "A Pastor Pushes Forward as a Drought Threatens His Town and His Church",
+            "abstract": "The specter of harder times hangs over a rural Australian town where the worst of the drought has yet to come.",
+            "url": "https://www.nytimes.com/2018/10/07/world/australia/drought-farmers-nsw.html",
+            "byline": "By RICK ROJAS",
+            "item_type": "Article",
+            "updated_date": "2018-10-07T15:01:06-04:00",
+            "created_date": "2018-10-07T15:01:06-04:00",
+            "published_date": "2018-10-07T15:01:06-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Drought",
+                "Agriculture and Farming",
+                "Ministers (Protestant)",
+                "Rural Areas"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Australia"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/08/world/08oz-pastor-1/00oz-pastor-w-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The worst drought in decades is threatening a way of life in rural communities like Wee Waa, Australia.",
+                    "copyright": "David Maurice Smith for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/08/world/08oz-pastor-1/00oz-pastor-w-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The worst drought in decades is threatening a way of life in rural communities like Wee Waa, Australia.",
+                    "copyright": "David Maurice Smith for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/08/world/08oz-pastor-1/merlin_144224142_00036242-37d3-4982-98fc-89ece84eae43-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The worst drought in decades is threatening a way of life in rural communities like Wee Waa, Australia.",
+                    "copyright": "David Maurice Smith for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/08/world/08oz-pastor-1/merlin_144224142_00036242-37d3-4982-98fc-89ece84eae43-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The worst drought in decades is threatening a way of life in rural communities like Wee Waa, Australia.",
+                    "copyright": "David Maurice Smith for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/08/world/08oz-pastor-1/merlin_144224142_00036242-37d3-4982-98fc-89ece84eae43-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The worst drought in decades is threatening a way of life in rural communities like Wee Waa, Australia.",
+                    "copyright": "David Maurice Smith for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/2IHHnwN"
+        },
+        {
+            "section": "Arts",
+            "subsection": "Art & Design",
+            "title": "How Banksy’s Prank Might Boost His Prices: ‘It’s a Part of Art History’",
+            "abstract": "The artist’s remotely shredded “Girl With Balloon” was meant to poke fun at excesses of the auction world. Yet now his prices look set to soar.",
+            "url": "https://www.nytimes.com/2018/10/07/arts/design/banksy-artwork-painting.html",
+            "byline": "By SCOTT REYBURN",
+            "item_type": "Article",
+            "updated_date": "2018-10-07T14:55:38-04:00",
+            "created_date": "2018-10-07T14:55:38-04:00",
+            "published_date": "2018-10-07T14:55:38-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Art",
+                "Auctions",
+                "Hoaxes and Pranks"
+            ],
+            "org_facet": [
+                "Sotheby's"
+            ],
+            "per_facet": [
+                "Banksy"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/08/arts/08banksy1/08banksy1-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Banksy’s painting “Girl With Balloon” was shredded just after selling at Sotheby’s in London on Friday. “It’s become worth more as a conceptual moment,” one art dealer said of the work.",
+                    "copyright": "Banksy, via Instagram"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/08/arts/08banksy1/08banksy1-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Banksy’s painting “Girl With Balloon” was shredded just after selling at Sotheby’s in London on Friday. “It’s become worth more as a conceptual moment,” one art dealer said of the work.",
+                    "copyright": "Banksy, via Instagram"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/08/arts/08banksy1/08banksy1-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 112,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Banksy’s painting “Girl With Balloon” was shredded just after selling at Sotheby’s in London on Friday. “It’s become worth more as a conceptual moment,” one art dealer said of the work.",
+                    "copyright": "Banksy, via Instagram"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/08/arts/08banksy1/08banksy1-mediumThreeByTwo210-v2.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Banksy’s painting “Girl With Balloon” was shredded just after selling at Sotheby’s in London on Friday. “It’s become worth more as a conceptual moment,” one art dealer said of the work.",
+                    "copyright": "Banksy, via Instagram"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/08/arts/08banksy1/08banksy1-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 798,
+                    "width": 1357,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Banksy’s painting “Girl With Balloon” was shredded just after selling at Sotheby’s in London on Friday. “It’s become worth more as a conceptual moment,” one art dealer said of the work.",
+                    "copyright": "Banksy, via Instagram"
+                }
+            ],
+            "short_url": "https://nyti.ms/2CvMU9g"
+        },
+        {
+            "section": "U.S.",
+            "subsection": "",
+            "title": "Why Italian-Americans Still Fiercely Defend Columbus Day",
+            "abstract": "A growing number of cities are replacing Columbus Day with Indigenous People’s Day, but Italian-Americans say that erases their history.",
+            "url": "https://www.nytimes.com/2018/10/05/us/columbus-day-italians-indigenous-peoples-day.html",
+            "byline": "By CHRISTINA CARON",
+            "item_type": "Article",
+            "updated_date": "2018-10-05T18:28:28-04:00",
+            "created_date": "2018-10-05T14:57:26-04:00",
+            "published_date": "2018-10-05T14:57:26-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Columbus Day",
+                "Immigration and Emigration",
+                "Italian-Americans",
+                "Indigenous People",
+                "Exploration and Explorers"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Columbus, Christopher"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/07/us/07xp-columbus-print/00xp-columbus-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Handing out Italian flags before the 2017 Columbus Day parade along Fifth Avenue in Manhattan. The holiday remains a source of pride for many Italian-Americans even as many cities have reconsidered the explorer’s legacy.",
+                    "copyright": "Sam Hodgson for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/07/us/07xp-columbus-print/00xp-columbus-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Handing out Italian flags before the 2017 Columbus Day parade along Fifth Avenue in Manhattan. The holiday remains a source of pride for many Italian-Americans even as many cities have reconsidered the explorer’s legacy.",
+                    "copyright": "Sam Hodgson for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/07/us/07xp-columbus-print/merlin_128573894_848b7080-3811-43ae-a5e6-49099fb043de-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Handing out Italian flags before the 2017 Columbus Day parade along Fifth Avenue in Manhattan. The holiday remains a source of pride for many Italian-Americans even as many cities have reconsidered the explorer’s legacy.",
+                    "copyright": "Sam Hodgson for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/07/us/07xp-columbus-print/07xp-columbus-print-mediumThreeByTwo210-v2.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Handing out Italian flags before the 2017 Columbus Day parade along Fifth Avenue in Manhattan. The holiday remains a source of pride for many Italian-Americans even as many cities have reconsidered the explorer’s legacy.",
+                    "copyright": "Sam Hodgson for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/07/us/07xp-columbus-print/merlin_128573894_848b7080-3811-43ae-a5e6-49099fb043de-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Handing out Italian flags before the 2017 Columbus Day parade along Fifth Avenue in Manhattan. The holiday remains a source of pride for many Italian-Americans even as many cities have reconsidered the explorer’s legacy.",
+                    "copyright": "Sam Hodgson for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/2BYxEAO"
+        },
+        {
+            "section": "Health",
+            "subsection": "",
+            "title": "Flashy Science Hub and Vaping Parties Fail to Win Friends at W.H.O. Tobacco Talks",
+            "abstract": "Industry representatives, who were barred from the negotiations, ultimately failed to get delegates to designate a special exemption for new products.",
+            "url": "https://www.nytimes.com/2018/10/07/health/tobacco-e-cigarettes-treaty.html",
+            "byline": "By SHEILA KAPLAN",
+            "item_type": "Article",
+            "updated_date": "2018-10-07T20:35:52-04:00",
+            "created_date": "2018-10-07T13:29:16-04:00",
+            "published_date": "2018-10-07T13:29:16-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Smoking and Tobacco",
+                "E-Cigarettes",
+                "Nicotine",
+                "Treaties",
+                "Regulation and Deregulation of Industry"
+            ],
+            "org_facet": [
+                "World Health Organization"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/05/science/00TOBACCO2/00TOBACCO2-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Vaping at the “Nicotine Is Not Your Enemy Soirée.”",
+                    "copyright": "Romain Etienne for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/05/science/00TOBACCO2/00TOBACCO2-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Vaping at the “Nicotine Is Not Your Enemy Soirée.”",
+                    "copyright": "Romain Etienne for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/05/science/00TOBACCO2/00TOBACCO2-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Vaping at the “Nicotine Is Not Your Enemy Soirée.”",
+                    "copyright": "Romain Etienne for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/05/science/00TOBACCO2/00TOBACCO2-mediumThreeByTwo210-v2.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Vaping at the “Nicotine Is Not Your Enemy Soirée.”",
+                    "copyright": "Romain Etienne for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/05/science/00TOBACCO2/00TOBACCO2-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Vaping at the “Nicotine Is Not Your Enemy Soirée.”",
+                    "copyright": "Romain Etienne for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/2CvPV9K"
+        },
+        {
+            "section": "Arts",
+            "subsection": "Music",
+            "title": "The Playlist: Sharon Van Etten Comes Back Strong, and 11 More New Songs",
+            "abstract": "Hear tracks by Halsey, Van Morrison, Alessia Cara and others.",
+            "url": "https://www.nytimes.com/2018/10/05/arts/music/playlist-halsey-mariah-carey-sheck-wes-alessia-cara.html",
+            "byline": "By JON PARELES, JON CARAMANICA and GIOVANNI RUSSONELLO",
+            "item_type": "Article",
+            "updated_date": "2018-10-05T13:28:59-04:00",
+            "created_date": "2018-10-05T13:28:59-04:00",
+            "published_date": "2018-10-05T13:28:59-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Rap and Hip-Hop",
+                "Pop and Rock Music",
+                "Jazz"
+            ],
+            "org_facet": [
+                "Mothers (Music Group)"
+            ],
+            "per_facet": [
+                "Ahmed, Riz",
+                "Cara, Alessia",
+                "Carey, Mariah",
+                "Frangipane, Ashley Nicolette (Halsey)",
+                "Leschper, Kristine",
+                "Maxwell",
+                "Residente (Rapper)",
+                "Sheck Wes",
+                "Van Etten, Sharon"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/08/arts/music/08playlist/06playlist-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Sharon Van Etten&rsquo;s first album since 2014, &ldquo;Remind Me Tomorrow,&rdquo; is due in January.",
+                    "copyright": "Ryan Pfluger"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/08/arts/music/08playlist/06playlist-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Sharon Van Etten&rsquo;s first album since 2014, &ldquo;Remind Me Tomorrow,&rdquo; is due in January.",
+                    "copyright": "Ryan Pfluger"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/08/arts/music/08playlist/06playlist-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 238,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Sharon Van Etten&rsquo;s first album since 2014, &ldquo;Remind Me Tomorrow,&rdquo; is due in January.",
+                    "copyright": "Ryan Pfluger"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/08/arts/music/08playlist/06playlist-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Sharon Van Etten&rsquo;s first album since 2014, &ldquo;Remind Me Tomorrow,&rdquo; is due in January.",
+                    "copyright": "Ryan Pfluger"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/08/arts/music/08playlist/06playlist-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 2048,
+                    "width": 1639,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Sharon Van Etten&rsquo;s first album since 2014, &ldquo;Remind Me Tomorrow,&rdquo; is due in January.",
+                    "copyright": "Ryan Pfluger"
+                }
+            ],
+            "short_url": "https://nyti.ms/2C02clB"
+        },
+        {
+            "section": "Smarter Living",
+            "subsection": "",
+            "title": "The Dutch Reach: A No-Tech Way to Save Bicyclists’ Lives",
+            "abstract": "This simple change in the way you get out of your car can save lives — of cyclists, drivers and passengers. Here’s how to do it, and why it’s so effective.",
+            "url": "https://www.nytimes.com/2018/10/05/smarter-living/the-dutch-reach-save-bicyclists-lives-bicycle-safety-drivers.html",
+            "byline": "By TANYA MOHN",
+            "item_type": "Article",
+            "updated_date": "2018-10-05T18:30:01-04:00",
+            "created_date": "2018-10-05T18:30:01-04:00",
+            "published_date": "2018-10-05T18:30:01-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Traffic Accidents and Safety",
+                "Bicycles and Bicycling",
+                "Drivers Education"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/02/autossell/00sl_dutchreach/00sl_dutchreach-thumbStandard-v2.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Calum Heath"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/02/autossell/00sl_dutchreach/00sl_dutchreach-thumbLarge-v2.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Calum Heath"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/02/autossell/00sl_dutchreach/00sl_dutchreach-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Calum Heath"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/02/autossell/00sl_dutchreach/merlin_144715506_d8f51c59-e6d6-4c9d-ab7a-f31a5542415a-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Calum Heath"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/02/autossell/00sl_dutchreach/merlin_144715506_d8f51c59-e6d6-4c9d-ab7a-f31a5542415a-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Calum Heath"
+                }
+            ],
+            "short_url": "https://nyti.ms/2CtfoAF"
+        },
+        {
+            "section": "Books",
+            "subsection": "Book Review",
+            "title": "9 New Books We Recommend This Week",
+            "abstract": "Suggested reading from critics and editors at The New York Times.",
+            "url": "https://www.nytimes.com/2018/10/04/books/review/9-new-books-we-recommend-this-week.html",
+            "byline": "",
+            "item_type": "Article",
+            "updated_date": "2018-10-04T13:43:59-04:00",
+            "created_date": "2018-10-04T13:43:59-04:00",
+            "published_date": "2018-10-04T13:43:59-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Books and Literature"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/07/books/review/07edchoice-covers/07edchoice-covers-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/07/books/review/07edchoice-covers/07edchoice-covers-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/07/books/review/07edchoice-covers/07edchoice-covers-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 95,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/07/books/review/07edchoice-covers/07edchoice-covers-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/07/books/review/07edchoice-covers/07edchoice-covers-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 681,
+                    "width": 1365,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": ""
+                }
+            ],
+            "short_url": "https://nyti.ms/2O6cEiT"
+        },
+        {
+            "section": "Smarter Living",
+            "subsection": "",
+            "title": "How to Charge Your Phone Faster",
+            "abstract": "No time to wait for your phone to charge up? No problem — these tips will get you the most battery power in the least amount of time.",
+            "url": "https://www.nytimes.com/2018/10/03/smarter-living/how-to-charge-phone-faster.html",
+            "byline": "By WHITSON GORDON",
+            "item_type": "Article",
+            "updated_date": "2018-10-04T13:50:27-04:00",
+            "created_date": "2018-10-03T18:30:01-04:00",
+            "published_date": "2018-10-03T18:30:01-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Batteries",
+                "Smartphones"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/05/autossell/04sl_fastcharge/04sl_fastcharge-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Oliver Munday"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/05/autossell/04sl_fastcharge/04sl_fastcharge-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Oliver Munday"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/05/autossell/04sl_fastcharge/04sl_fastcharge-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Oliver Munday"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/05/autossell/04sl_fastcharge/merlin_144668685_1730c494-8278-4fef-847d-68931301a620-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Oliver Munday"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/05/autossell/04sl_fastcharge/04sl_fastcharge-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1345,
+                    "width": 2018,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Oliver Munday"
+                }
+            ],
+            "short_url": "https://nyti.ms/2P8oRjC"
+        },
+        {
+            "section": "Theater",
+            "subsection": "",
+            "title": "Mandy Patinkin Has Found a ‘New Life Partner in Music’",
+            "abstract": "With “Homeland” about to end, he’s released his first new albums in more than a decade, with a young pop-minded producer pushing him to take risks.",
+            "url": "https://www.nytimes.com/2018/10/05/theater/mandy-patinkin-thomas-bartlett-diaries.html",
+            "byline": "By ELYSA GARDNER",
+            "item_type": "Article",
+            "updated_date": "2018-10-05T14:46:58-04:00",
+            "created_date": "2018-10-05T07:00:04-04:00",
+            "published_date": "2018-10-05T07:00:04-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Actors and Actresses",
+                "Theater",
+                "Music",
+                "Television",
+                "Homeland (TV Program)"
+            ],
+            "org_facet": [
+                "New York Theater Workshop",
+                "Connelly Theater"
+            ],
+            "per_facet": [
+                "Patinkin, Mandy",
+                "Bartlett, Thomas (Doveman)"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/06/arts/06patinkin1/09patinkin1-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "“I’m not the gifted genius who writes the songs,” Mandy Patinkin said. “I’m the mailman, delivering the letters.”",
+                    "copyright": "Devin Yalkin for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/06/arts/06patinkin1/09patinkin1-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "“I’m not the gifted genius who writes the songs,” Mandy Patinkin said. “I’m the mailman, delivering the letters.”",
+                    "copyright": "Devin Yalkin for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/06/arts/06patinkin1/merlin_144314517_220e6977-7217-415f-b880-3652331dd894-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "“I’m not the gifted genius who writes the songs,” Mandy Patinkin said. “I’m the mailman, delivering the letters.”",
+                    "copyright": "Devin Yalkin for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/06/arts/06patinkin1/06patinkin1-mediumThreeByTwo210-v2.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "“I’m not the gifted genius who writes the songs,” Mandy Patinkin said. “I’m the mailman, delivering the letters.”",
+                    "copyright": "Devin Yalkin for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/06/arts/06patinkin1/merlin_144314517_220e6977-7217-415f-b880-3652331dd894-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "“I’m not the gifted genius who writes the songs,” Mandy Patinkin said. “I’m the mailman, delivering the letters.”",
+                    "copyright": "Devin Yalkin for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/2CqlD8x"
+        },
+        {
+            "section": "Lens",
+            "subsection": "",
+            "title": "40 Years of Hip-Hop Photos",
+            "abstract": "Decades after photographers captured the hip-hop scene that emerged in the South Bronx, contact sheets offer a valuable peek into how artists on both sides of the camera worked.",
+            "url": "https://www.nytimes.com/2018/10/05/lens/40-years-of-hip-hop-photos.html",
+            "byline": "By FAYEMI SHAKUR",
+            "item_type": "Article",
+            "updated_date": "2018-10-06T00:11:34-04:00",
+            "created_date": "2018-10-05T04:00:01-04:00",
+            "published_date": "2018-10-05T04:00:01-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Rap and Hip-Hop",
+                "Photography",
+                "Archives and Records",
+                "Music"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/05/lens/05hiphop1/05hiphop1-thumbStandard-v2.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Run-DMC.",
+                    "copyright": "Janette Beckman"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/05/lens/05hiphop1/05hiphop1-thumbLarge-v2.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Run-DMC.",
+                    "copyright": "Janette Beckman"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/05/lens/05hiphop1/05hiphop1-articleInline-v2.jpg",
+                    "format": "Normal",
+                    "height": 191,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Run-DMC.",
+                    "copyright": "Janette Beckman"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/05/lens/05hiphop1/05hiphop1-mediumThreeByTwo210-v3.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Run-DMC.",
+                    "copyright": "Janette Beckman"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/05/lens/05hiphop1/05hiphop1-superJumbo-v2.jpg",
+                    "format": "superJumbo",
+                    "height": 2048,
+                    "width": 2036,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Run-DMC.",
+                    "copyright": "Janette Beckman"
+                }
+            ],
+            "short_url": "https://nyti.ms/2CsJZym"
+        },
+        {
+            "section": "Theater",
+            "subsection": "",
+            "title": "Review: Wrestling With a Master in ‘On Beckett’",
+            "abstract": "Bill Irwin blurs the lines between clown and dramatic actor in an insightful anatomy of the works of Samuel Beckett.",
+            "url": "https://www.nytimes.com/2018/10/03/theater/review-bill-irwin-on-beckett.html",
+            "byline": "By BEN BRANTLEY",
+            "item_type": "Article",
+            "updated_date": "2018-10-03T21:45:04-04:00",
+            "created_date": "2018-10-03T21:45:04-04:00",
+            "published_date": "2018-10-03T21:45:04-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Theater",
+                "On Beckett (Play)"
+            ],
+            "org_facet": [
+                "Irish Repertory Theater"
+            ],
+            "per_facet": [
+                "Beckett, Samuel",
+                "Irwin, Bill"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/04/arts/04BECKETT2/04BECKETT2-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Bill Irwin explores the works of Samuel Beckett in “On Beckett,” a nearly one-man show he conceived and stars in, at the Irish Repertory Theater.",
+                    "copyright": "Michelle V. Agins/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/04/arts/04BECKETT2/04BECKETT2-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Bill Irwin explores the works of Samuel Beckett in “On Beckett,” a nearly one-man show he conceived and stars in, at the Irish Repertory Theater.",
+                    "copyright": "Michelle V. Agins/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/04/arts/04BECKETT2/merlin_144354420_bf62f8f9-8159-465e-9482-b383702a4f7d-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Bill Irwin explores the works of Samuel Beckett in “On Beckett,” a nearly one-man show he conceived and stars in, at the Irish Repertory Theater.",
+                    "copyright": "Michelle V. Agins/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/04/arts/04BECKETT2/merlin_144354420_bf62f8f9-8159-465e-9482-b383702a4f7d-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Bill Irwin explores the works of Samuel Beckett in “On Beckett,” a nearly one-man show he conceived and stars in, at the Irish Repertory Theater.",
+                    "copyright": "Michelle V. Agins/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/04/arts/04BECKETT2/merlin_144354420_bf62f8f9-8159-465e-9482-b383702a4f7d-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Bill Irwin explores the works of Samuel Beckett in “On Beckett,” a nearly one-man show he conceived and stars in, at the Irish Repertory Theater.",
+                    "copyright": "Michelle V. Agins/The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/2P9dFTG"
+        },
+        {
+            "section": "Arts",
+            "subsection": "Television",
+            "title": "Review: The Doctor Regenerates, and So Does ‘Doctor Who’",
+            "abstract": "Jodie Whittaker takes over the lead when this science-fiction institution starts a new season on BBC America, but the changes go way beyond gender.",
+            "url": "https://www.nytimes.com/2018/10/05/arts/television/doctor-who-review-jodie-whittaker-bbc-america.html",
+            "byline": "By MIKE HALE",
+            "item_type": "Article",
+            "updated_date": "2018-10-05T16:10:28-04:00",
+            "created_date": "2018-10-05T14:40:43-04:00",
+            "published_date": "2018-10-05T14:40:43-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Television",
+                "Doctor Who (TV Program)"
+            ],
+            "org_facet": [
+                "BBC America"
+            ],
+            "per_facet": [
+                "Whittaker, Jodie",
+                "Chibnall, Chris",
+                "Moffat, Steven (1961- )"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/06/watching/06doctorwho/06doctorwho-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Jodie Whittaker takes over as the Doctor in &ldquo;Doctor Who&rdquo; on BBC America. She&rsquo;s flanked, from left, by Mandip Gill, Tosin Cole, Bradley Walsh and Sharon D. Clarke.",
+                    "copyright": "Sophie Mutevelian/BBC America"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/06/watching/06doctorwho/06doctorwho-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Jodie Whittaker takes over as the Doctor in &ldquo;Doctor Who&rdquo; on BBC America. She&rsquo;s flanked, from left, by Mandip Gill, Tosin Cole, Bradley Walsh and Sharon D. Clarke.",
+                    "copyright": "Sophie Mutevelian/BBC America"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/06/watching/06doctorwho/merlin_144770520_5c9af5dd-2fbe-418a-bb6c-8916f91b39df-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Jodie Whittaker takes over as the Doctor in &ldquo;Doctor Who&rdquo; on BBC America. She&rsquo;s flanked, from left, by Mandip Gill, Tosin Cole, Bradley Walsh and Sharon D. Clarke.",
+                    "copyright": "Sophie Mutevelian/BBC America"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/06/watching/06doctorwho/06doctorwho-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Jodie Whittaker takes over as the Doctor in &ldquo;Doctor Who&rdquo; on BBC America. She&rsquo;s flanked, from left, by Mandip Gill, Tosin Cole, Bradley Walsh and Sharon D. Clarke.",
+                    "copyright": "Sophie Mutevelian/BBC America"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/06/watching/06doctorwho/merlin_144770520_5c9af5dd-2fbe-418a-bb6c-8916f91b39df-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Jodie Whittaker takes over as the Doctor in &ldquo;Doctor Who&rdquo; on BBC America. She&rsquo;s flanked, from left, by Mandip Gill, Tosin Cole, Bradley Walsh and Sharon D. Clarke.",
+                    "copyright": "Sophie Mutevelian/BBC America"
+                }
+            ],
+            "short_url": "https://nyti.ms/2CxpCjw"
+        },
+        {
+            "section": "Arts",
+            "subsection": "Music",
+            "title": "K-Pop Superstars BTS Lit Up Citi Field’s Stage. Their Fans Did the Rest.",
+            "abstract": "The seven-member group ended its Love Yourself tour with its first United States stadium show, a demonstration of precise pop showmanship and fan devotion.",
+            "url": "https://www.nytimes.com/2018/10/07/arts/music/bts-concert-citi-field-review.html",
+            "byline": "By JON CARAMANICA",
+            "item_type": "Article",
+            "updated_date": "2018-10-07T21:18:01-04:00",
+            "created_date": "2018-10-07T14:18:46-04:00",
+            "published_date": "2018-10-07T14:18:46-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Pop and Rock Music",
+                "Rap and Hip-Hop",
+                "Love Yourself: Answer (Album)"
+            ],
+            "org_facet": [
+                "BTS (Music Group)"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/08/arts/08BTS-LIVE1/08BTS-LIVE1-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The seven-member K-pop group BTS closed its Love Yourself tour with its first United States stadium show, at Citi Field in Queens.",
+                    "copyright": "Nina Westervelt for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/08/arts/08BTS-LIVE1/08BTS-LIVE1-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The seven-member K-pop group BTS closed its Love Yourself tour with its first United States stadium show, at Citi Field in Queens.",
+                    "copyright": "Nina Westervelt for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/08/arts/08BTS-LIVE1/merlin_144949515_086ed195-498a-4e5c-820a-65a1bacc9874-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The seven-member K-pop group BTS closed its Love Yourself tour with its first United States stadium show, at Citi Field in Queens.",
+                    "copyright": "Nina Westervelt for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/08/arts/08BTS-LIVE1/08BTS-LIVE1-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The seven-member K-pop group BTS closed its Love Yourself tour with its first United States stadium show, at Citi Field in Queens.",
+                    "copyright": "Nina Westervelt for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/08/arts/08BTS-LIVE1/merlin_144949515_086ed195-498a-4e5c-820a-65a1bacc9874-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The seven-member K-pop group BTS closed its Love Yourself tour with its first United States stadium show, at Citi Field in Queens.",
+                    "copyright": "Nina Westervelt for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/2CvLifI"
+        },
+        {
+            "section": "Health",
+            "subsection": "",
+            "title": "These Cholesterol-Reducers May Save Lives. So Why Aren’t Heart Patients Getting Them?",
+            "abstract": "Powerful PCSK9 inhibitors were supposed to revolutionize care for cardiac patients. But insurers and other payers balked at sky-high prices.",
+            "url": "https://www.nytimes.com/2018/10/02/health/pcsk9-cholesterol-prices.html",
+            "byline": "By GINA KOLATA",
+            "item_type": "Article",
+            "updated_date": "2018-10-02T14:58:28-04:00",
+            "created_date": "2018-10-02T02:30:05-04:00",
+            "published_date": "2018-10-02T02:30:05-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Repatha (Drug)",
+                "Drugs (Pharmaceuticals)",
+                "Health Insurance and Managed Care",
+                "Cholesterol",
+                "Prices (Fares, Fees and Rates)",
+                "Heart"
+            ],
+            "org_facet": [
+                "Amgen Inc",
+                "CIGNA Corporation",
+                "Express Scripts Inc",
+                "Regeneron Pharmaceuticals Inc"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/02/science/11SCI-PCSK9/11SCI-PCSK9-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Mackenzie Ames has a hereditary heart condition that killed her grandfather, lower left, at age 30. Her mother, lower right, had heart surgery when she was 42.",
+                    "copyright": "Eamon Queeney for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/02/science/11SCI-PCSK9/11SCI-PCSK9-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Mackenzie Ames has a hereditary heart condition that killed her grandfather, lower left, at age 30. Her mother, lower right, had heart surgery when she was 42.",
+                    "copyright": "Eamon Queeney for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/02/science/11SCI-PCSK9/11SCI-PCSK9-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Mackenzie Ames has a hereditary heart condition that killed her grandfather, lower left, at age 30. Her mother, lower right, had heart surgery when she was 42.",
+                    "copyright": "Eamon Queeney for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/02/science/11SCI-PCSK9/11SCI-PCSK9-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Mackenzie Ames has a hereditary heart condition that killed her grandfather, lower left, at age 30. Her mother, lower right, had heart surgery when she was 42.",
+                    "copyright": "Eamon Queeney for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/02/science/11SCI-PCSK9/11SCI-PCSK9-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Mackenzie Ames has a hereditary heart condition that killed her grandfather, lower left, at age 30. Her mother, lower right, had heart surgery when she was 42.",
+                    "copyright": "Eamon Queeney for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/2OsIzcN"
+        },
+        {
+            "section": "Science",
+            "subsection": "",
+            "title": "Viruses Spread by Insects to Crops Sound Scary. The Military Calls It Food Security.",
+            "abstract": "Critics warn that a Defense Department-funded food security project that is still in the lab could set off a “biological arms race.”",
+            "url": "https://www.nytimes.com/2018/10/04/science/darpa-gene-editing.html",
+            "byline": "By EMILY BAUMGAERTNER",
+            "item_type": "Article",
+            "updated_date": "2018-10-04T14:29:50-04:00",
+            "created_date": "2018-10-04T14:00:04-04:00",
+            "published_date": "2018-10-04T14:00:04-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Biological and Chemical Warfare",
+                "Agriculture and Farming",
+                "Genetic Engineering",
+                "Viruses",
+                "Drought",
+                "United States Defense and Military Forces",
+                "Insects"
+            ],
+            "org_facet": [
+                "Defense Advanced Research Projects Agency",
+                "Science (Journal)"
+            ],
+            "per_facet": [
+                "Reeves, Guy",
+                "Bextine, Blake"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/05/science/05DARPA/05DARPA-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Scientists warn that insects carrying genetically modified viruses to strengthen crops from various hazards could just as soon be used for nefarious purposes.",
+                    "copyright": "Sue Ogrocki/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/05/science/05DARPA/05DARPA-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Scientists warn that insects carrying genetically modified viruses to strengthen crops from various hazards could just as soon be used for nefarious purposes.",
+                    "copyright": "Sue Ogrocki/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/05/science/05DARPA/05DARPA-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 117,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Scientists warn that insects carrying genetically modified viruses to strengthen crops from various hazards could just as soon be used for nefarious purposes.",
+                    "copyright": "Sue Ogrocki/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/05/science/05DARPA/05DARPA-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Scientists warn that insects carrying genetically modified viruses to strengthen crops from various hazards could just as soon be used for nefarious purposes.",
+                    "copyright": "Sue Ogrocki/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/05/science/05DARPA/05DARPA-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Scientists warn that insects carrying genetically modified viruses to strengthen crops from various hazards could just as soon be used for nefarious purposes.",
+                    "copyright": "Sue Ogrocki/Associated Press"
+                }
+            ],
+            "short_url": "https://nyti.ms/2OBMWCb"
+        },
+        {
+            "section": "Science",
+            "subsection": "",
+            "title": "A Goblin World That Points Toward Hidden Planet Nine in the Solar System",
+            "abstract": "What astronomers have found about the curious orbit of a small ice world far away reinforces the idea that a large world is hidden out in the solar system.",
+            "url": "https://www.nytimes.com/2018/10/02/science/goblin-planet-nine.html",
+            "byline": "By KENNETH CHANG",
+            "item_type": "Article",
+            "updated_date": "2018-10-02T21:42:33-04:00",
+            "created_date": "2018-10-02T21:41:54-04:00",
+            "published_date": "2018-10-02T21:41:54-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Space and Astronomy",
+                "Solar System",
+                "Planets"
+            ],
+            "org_facet": [
+                "Astronomical Journal"
+            ],
+            "per_facet": [
+                "Sheppard, Scott S"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/09/science/03PLANETNINE1/03PLANETNINE1-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An artist's rendering of a large, unseen ninth planet that some astronomers say must be orbiting our sun at a great distance to explain the orbits of other smaller objects.",
+                    "copyright": "Roberto Molar Candanosa and Scott Sheppard, Carnegie Institution for Science"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/09/science/03PLANETNINE1/03PLANETNINE1-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An artist's rendering of a large, unseen ninth planet that some astronomers say must be orbiting our sun at a great distance to explain the orbits of other smaller objects.",
+                    "copyright": "Roberto Molar Candanosa and Scott Sheppard, Carnegie Institution for Science"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/09/science/03PLANETNINE1/03PLANETNINE1-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An artist's rendering of a large, unseen ninth planet that some astronomers say must be orbiting our sun at a great distance to explain the orbits of other smaller objects.",
+                    "copyright": "Roberto Molar Candanosa and Scott Sheppard, Carnegie Institution for Science"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/09/science/03PLANETNINE1/03PLANETNINE1-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An artist's rendering of a large, unseen ninth planet that some astronomers say must be orbiting our sun at a great distance to explain the orbits of other smaller objects.",
+                    "copyright": "Roberto Molar Candanosa and Scott Sheppard, Carnegie Institution for Science"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/09/science/03PLANETNINE1/03PLANETNINE1-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1032,
+                    "width": 1548,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An artist's rendering of a large, unseen ninth planet that some astronomers say must be orbiting our sun at a great distance to explain the orbits of other smaller objects.",
+                    "copyright": "Roberto Molar Candanosa and Scott Sheppard, Carnegie Institution for Science"
+                }
+            ],
+            "short_url": "https://nyti.ms/2PaHiUY"
+        }
+    ]
+}

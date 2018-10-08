@@ -39,7 +39,7 @@ class APIServiceTests: XCTestCase {
             
         })
         
-        wait(for: [expect], timeout: 4.1)
+        wait(for: [expect], timeout: 3.1)
     }
     
 }
