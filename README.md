@@ -2,7 +2,7 @@
 # MVVM iOS SWift
 
 
-This is a Sample Project developed in swift 4, used MVVM Architecture. The Fetches news list from the Newyork Times Api portal(https://api.nytimes.com) and list down in home screen and also there will be a detail screen for each news. Unit Test for the Api call is also Included in this sample project.
+This is a Sample Project developed in swift 4, used MVVM Architecture. The App Fetch news list from the Newyork Times Api portal(https://api.nytimes.com) and list down in home screen and also there will be a detail screen for each news. Unit Test for the Api call is also Included in this sample project.
 
 
 # What is MVVM ?
